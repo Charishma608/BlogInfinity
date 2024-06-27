@@ -1,5 +1,5 @@
 # BlogInfinity
-Deployed Link - 
+Website Hosted on Render - https://bloginfinity.onrender.com
 
 # Blog Application Using React.js with Material-UI and Redux
 
@@ -30,8 +30,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/blog-app.git
-   cd blog-app
+   git clone https://github.com/Charishma608/BlogInfinity.git
+   cd BlogInfinity
    ```
 2. **Install Dependencies**
 
